@@ -8,18 +8,18 @@
 
 ## ver.Arduino IDE
 ### 環境構築について
-** TODO:ここに環境構築MDのリンク挿入 **
+[Arduino IDEでの環境構築手順](arduino-ide/setup-arduinoide.md)
 
 ### 画像表示
 起動時に画像を表示するサンプル  
-** TODO:ここにサンプルリンク挿入 **  
-![Alt text](images/bitmap-image.jpg)
+[サンプルコード](arduino-ide/bitmap-sample)  
+<img src="images/bitmap-image.jpg" width="50%" />
 
 ### タッチパネル
 タッチパネルでLCD上にペイントするサンプル  
 左上部にあるボタンで全消し  
-** TODO:ここにサンプルリンク挿入 **  
-![Alt text](images/touch-image.jpg)
+[サンプルコード](arduino-ide/touch-panel-sample)  
+<img src="images/touch-image.jpg" width="50%" />
 
 ## 参考サイト
 - 公式Wiki  
